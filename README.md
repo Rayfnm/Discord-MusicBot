@@ -3,11 +3,11 @@
 
 ## 📝 Tutorial
 
-A Tutorial has been uploaded on YouTube <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Watch it by clicking [here](https://www.youtube.com/watch?v=p4lP96Tiv9s)
+A Tutorial has been uploaded on YouTube <img src="https://www.youtube.com/about/static/svgs/icons/brand-resources/YouTube_icon_full-color.svg?cache=f2ec7a5" width="30px"> Watch it by clicking [here](https://www.youtube.com/watch?v=Lrj2Hq7xqQ8)
 
-## 📝 [Support Server](https://discord.gg/a9SHDpD)
+## 📝 [Support Server](https://discord.gg/)
 
-Do you have any issues with the bot? Head to our [Discord Server](https://discord.gg/a9SHDpD) where we can help you faster than creating a GitHub issue. If you have a major bug to report, it would be best to create an [issue here](https://github.com/SudhanPlayz/Discord-MusicBot/issues).
+Do you have any issues with the bot? Head to our [Discord Server](https://discord.gg/) where we can help you faster than creating a GitHub issue. If you have a major bug to report, it would be best to create an [issue here](https://github.com/rayfnm/Discord-MusicBot/issues).
 
 ## 📸 Screenshots
 
@@ -17,16 +17,16 @@ Do you have any issues with the bot? Head to our [Discord Server](https://discor
 
 ## 💨 Run the projects
 
-Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/SudhanPlayz/Discord-MusicBot)
-Repl: [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/SudhanPlayz/Discord-MusicBot)
-Heroku: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SudhanPlayz/Discord-MusicBot)
+Glitch: [![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/rayfnm/Discord-MusicBot)
+Repl: [![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/rayfnm/SudhanPlayz/Discord-MusicBot)
+Heroku: [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/rayfnm/Discord-MusicBot)
 
 ## ✨ Contributors
 
 Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
 
-<a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
-  <img src="https://contributors-img.web.app/image?repo=SudhanPlayz/Discord-MusicBot" />
+<a href="https://github.com/rayfnm/Discord-MusicBot/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=rayfnm/Discord-MusicBot" />
 </a>
 
 Made with :heart: and JavaScript!
